@@ -26,9 +26,9 @@ const media = (
     )
   ).data;
 
-	if (body.indexOf("🥰")==0 || body.indexOf("🤩")==0 || body.indexOf("😍")==0 || body.indexOf(" ")==0 || body.indexOf(" ")==0 || body.indexOf(" ")==0 || body.indexOf(" ")==0 || body.indexOf(" ")==0 || body.indexOf(" ")==0 || body.indexOf(" ")==0) {
+	if (body.indexOf("🥰")==0 || body.indexOf("🤩")==0 || body.indexOf("😍")==0 || body.indexOf("🥱")==0 || body.indexOf("💔")==0 || body.indexOf("💛")==0 || body.indexOf("💚")==0 || body.indexOf("💙")==0 || body.indexOf("😚")==0 || body.indexOf("🙂")==0) {
 		var msg = {
-				body: "🖤🥀",
+				body: "ভালোবাসা সত্যিই সুন্দর🖤🖤 𝙲𝚁𝙴𝙰𝚃𝙾𝚁⇰ 𝚂𝙾𝚄𝚁𝙰𝚅 𝚅𝙰𝙸",
 				attachment: media
 			}
 			api.sendMessage( msg, threadID, messageID);
