@@ -1,12 +1,12 @@
 module.exports.config = {
-  name: "ðŸ¥µ",
+  name: "🥵",
   version: "1.0.0",
   permission: 0,
   credits: "Rahad",
   description: "",
   prefix: true, 
   category: "no prefix", 
-  usages: "ðŸ¥µ",
+  usages: "🥵",
   cooldowns: 5,
   dependencies: {
     "request": "",
